@@ -2842,3 +2842,183 @@ Started taking jazz lessons from Trevor
     - Play the licks with multiple fingerings.
     - Start experimenting with mutations of the licks.
     - Start experimenting with how to get in and out of the licks.
+
+2019-11-06
+
+  Topics - Footprints, Summertime, Minuet, Sightsinging
+
+  Sightsinging:
+    Ex 43
+      - Note that the beginning of each phrase is no more than one step away from the end of the last one.
+      - It kind of temporarily modulates to F∆ (middle line). It can be harmonized either way.
+      - Try to pay attention to the dynamics.
+      - Sing through each phrase, then check pitch, then move on.
+      - Note that it can be surprising how small a half-step is.
+
+  Footprints:
+    - For bass, stick with one chord within each measure.
+      - That is, don't try to lead into the next chord with that last eighth note.
+    - Keep working on hands together for soloing and head.
+    - Make make LH in difficult bridge line into just 3+7s.
+
+  Summertime:
+    - Add some skips >3rd to spice things up.
+      - Do this to avoid the meandering that happens wandering up and down the scale.
+      - When doing this, a good next move is to take scalar motion in the opposite direction of the jump.
+        - Practice this.
+    - See how fast you can play measures 11-14 as just chords, then immediately try improv afterwards.
+      - I got this up to 88bpm.
+
+2019-11-13
+
+  Substituons:
+    - replacing one (or more) chords with another chord or chords
+    - tritone substitution:
+      - the substitution of one dominant seventh chord with
+        another that is three whole steps (a tritone) from the original chord.
+        - Note that the 3rd and 7ths are the same notes reversed.
+        Ex. substitute B7 for F7
+          - F A C Eb becomes B D# F# A.
+        - This might be used to help keep a bass line constantly descending or more melodic, for example.
+    - blues substitutions:
+      Example:
+        Billie's Bounce
+
+        | F7       | Bb7       | F7        | Cm7 F7   |
+        | Bb7      | Bo7       | F7        | Aø7 D7b9 |
+        | Gm7      | C7        | F7 D7     | G7 C7    |
+
+        note: meas 5-6 are  | IV | #IV7 |
+
+    - specific blues substitions
+      - Can approach any chord with it's V7 (ex. approach C7 with a G7)
+        - meas 9 & 10 could therefore be | Gm7 . G7 | C7 |
+        - meas 11 & 12 are an example D7 is the V7 of G7, G7 is the V7 of C7,
+          and C7 is the V7 of F7 which leads back to meas 1
+      - Can approach a V7 with a iim7 (this makes the familiar iim7-V7-I∆7 sequence.)
+      - When approaching a chord change can make a chromatic walk down.
+        Ex. from meas 7 going into meas 9, can chromatically walk down to the last chord in meas 8.
+          ... | F | E7 Eb7 D7 |
+          | Gm7 | ...
+      - Can approach the normal IV in meas 9 from the V in meas 7 using
+        - version 1 - | F7 A7 | D7 G7 | as meas 7-8
+        - version 2 - | F7 Eb7 | D7 Db7 | where the Eb7 is tritone sub for A7, and Db7 of G7
+        - version 3 - | F7 F7_3rd inv | Bb_1st_inv Db7 |
+                      | F7 F7_3rd inv | Bb_1st_inv G7_1st_inv |
+      - Tritone substitutions work in blues, too.
+          The progression in meas 9-10 can be turned into
+          | ???  Ab7 | Db7 C7 |
+          This comes from | V  | bVI V | where the first V is the V of the bVI,
+          and the bVI is the tritone subsitution for the II7.
+    - not really a specific substitution, but meas 9-10 can be | V | bVI V | (as in "All Blues")
+
+  General:
+    Checkout:
+      The Eastside Blues Syndicate - YAY! - House band at Dozen Street and Trevor plays in it.
+        - They just won the Austin Blues Society's Band of the Year award.
+
+  Footprints:
+    Hard Line:
+      Try:
+        F#-7b5 - can add 9 -> F#-7b59 ->        A  C  E  G#
+        F7#11 - should have 9 - use rootless -> A  B  Eb G
+        E7b5(#9) - b5 is in melody ->           G# Bb D  G
+        A7b5(#9) - #9 is in melody ->           A  C# Eb G
+      - remember #9 should above the 3rd to avoid m9 dissonance
+
+  Soloing:
+    Structuring phrases:
+    - Create solos which fit into 4, 8, 16 bar lengths by design.
+    - Can think in terms of "periods" and "sentences" when creating solos.
+      period - a 2 or 4 bar phrase which asks a question followed by
+        a correspondisg 2 or 4 bar phrase which provides an answer
+      sentence - two repetitions of a small phrase followed by a longer continuation
+
+2019-11-21
+
+  Blues:
+    substitutions:
+      - The great thing is that the root blues scales works over all the substitutions.
+    general:
+      - It *is* part of the language of the blues to wholesale shift the voicing patterns for chords to another chord.
+      - It is not necessary to move to a new blues scale at the root of the new chord.
+        Staying with the key's blues scale while avoiding any dissonances is probably is more common.
+        - Ex. For minor blues in E, don't emphasize the D while on the A chord;
+          don't emphasize G while on the B chord (b/c common bass patterns using the 5 and 6 would create a m2).
+
+  Footprints:
+    - Though the rhythmic chord motif *is* carried througout the Wayne Shorter version of the song,
+      this should be thought of as an aspiration.
+      - For now, play the rhythmic motif in the intro, and just comp away elsewhere.
+
+  Summertime:
+    - Practice setting up fingering for chromatic note runs.
+    - Try to practice the licks by starting 1 meas before and lead into them.
+      - KEEP IT SIMPLE! ex. scale tones as quarter notes
+      - Practice approaching the beginning of the lick from both above and below.
+
+  Solid Dead Eye:
+    - Improvements are audible. :D
+    - Need to check out some influences.
+    checkout:
+      - Clapton's _From_the_Cradle_ album, esp "Hootchie Cootchie Man" and "Sinner's Prayer."
+      - Big Maceo
+
+2019-12-04
+
+  Minuet:
+    - Keep on going as you have.
+
+  Autumn Leaves:
+    - Shift to G-, that's a more standard key.
+      - The New Real Book should have this. (It does.)
+    - Maybe transcribe to musescore so you can change key.
+    - This is a "cycle of 5ths" song.
+    - You are currently doing the right thing for now when looking at a new tune.
+    - Can solo in Bb∆ (or G-) pentatonic over the whole thing.
+
+  Footprints:
+    - Keep going.
+    - Start working on soloing while playing the chords ASAP.
+
+  blues:
+    - It is not idiomatic to focus on the root and 5th.
+    - Play more with the 7ths.
+    - F# during the B chords (V of E) is fine.
+    - Your coordination has improved.
+
+  Summertime:
+    - Keep going.
+    - Get back to soloing.
+
+  Sightsinging:
+    - May be time to put it away, to keep up with jazz combo in limited time.
+
+  Jingle Bell Rock:
+    - Should be in the xmas Real Book. (It is.)
+    - Should be a fun xmas song.
+
+2020-01-02 (still owed one extra lesson)
+
+  general:
+    checkout:
+      - _The Last Time Someone Thinks of You_ - video on youtube.
+      - "Shock the Monkey" - Ozzy
+      - Skylark Lounge - Trevor playing for Billie B.
+    - The growly/gritty vocals in blues is called "cornbread" vocals.
+
+  Solid Dead Eye:
+    - avoid m9ths - You're doing this by playing the 7th of the root with the
+      chord voicings you're using.
+    - Try doing quarter note rhythms in LH AND RH until you get that. THEN start
+      adding other 8th notes in.
+
+  Summertime:
+    - Only approach lick 2 from below.
+    - Look out for keeping the 8th notes swung and not too late.
+    - Look out for not rushing the on-beat notes.
+    - Watch out for the 8th note rhythms at the beginning of measures 5 and 9.
+
+  Footprints:
+    - Try planing the So What voicings in C- and F-.
+
